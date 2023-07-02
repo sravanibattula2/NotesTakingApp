@@ -1,0 +1,4 @@
+Server/__pycache__/
+comment/__pycache__/
+comment/migrations/
+db.sqlite3
